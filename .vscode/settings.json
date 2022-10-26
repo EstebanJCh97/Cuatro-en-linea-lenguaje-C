@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "validargane.h": "c",
+        "matriz.h": "c",
+        "stdlib.h": "c"
+    }
+}
